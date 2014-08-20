@@ -1,0 +1,5 @@
+Revision history for Perl extension CGI::apacheSSI.
+
+0.93  Wed Jun 24 2014
+    - first release of CGI::apacheSSI a fork of CGI:SSI v0.92, aiming to emulate apache's SSI behavior.
+
